@@ -29,3 +29,4 @@
 | Hiruni Senevirathne  | [HiruniSenevirathne](https://github.com/HiruniSenevirathne)       |
 | Jill Oestreicher | [jilloestreicher](https://github.com/jilloestreicher) | 23 |
 | Tejas Srivastava | [styxOO7](https://github.com/styxOO7) |  |
+| Siddartha Aggarwal | [Mammoth](https://github.com/mammothneck) |     |
